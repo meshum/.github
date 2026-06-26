@@ -1,6 +1,6 @@
 # Meshum
 
-**Connect your knowledge. Unblock your teams.**
+**Coming soon**
 
 Meshum is a knowledge management platform that integrates multiple enterprise tools into a unified, searchable layer. We're building a living knowledge layer that connects all your tools - GitHub, Jira, Confluence, Notion, Slack, and more.
 
